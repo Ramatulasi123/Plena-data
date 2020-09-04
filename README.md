@@ -1,6 +1,5 @@
 # Plena-data
-How to run :
-#compile 
+How to compile :
 ```
 javac StringUtil.java
 ```
